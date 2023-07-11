@@ -20,7 +20,7 @@ for i in range(1, 50):
     for j in range(3, 400):
         min_samples = j
         to_check = str(epsilon) + " " + str(min_samples)
-        if to_check in results[1]: #and to_check in results[2] and to_check in results[3] and to_check in results[4] and to_check in results[5]:
+        if to_check in results[1]: #and to_check in results[2] and to_check in results[3] and to_check in results[4] and to_check in results[5]: # to set
             print(to_check)
             f.write(to_check + "\n")
 
