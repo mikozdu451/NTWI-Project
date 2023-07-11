@@ -1,0 +1,5 @@
+1. Set paths for files
+2. Set parameters and run randomP.py to generate points
+3. Set parameters and run dbscanTester.py
+4. Set parameters and run checkResuls.py
+5. Set parameters and run finalGraph to generate graph od points

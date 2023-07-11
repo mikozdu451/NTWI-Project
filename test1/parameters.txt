@@ -1,0 +1,4 @@
+randomPointsNum = random.randint(250, 500)
+circle_radius = random.uniform(1, 5)
+gaussianPointsNum = random.randint(250, 500)
+maxSize = 10
